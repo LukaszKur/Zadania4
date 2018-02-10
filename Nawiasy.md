@@ -5,9 +5,9 @@ aby uniknać problemów zwiazanych z priorytetem operatorów.
 
 **Przykład błędnego wykonania:**
 
+```c
 #include <stdio.h>
 
-```c
 #define SIX 1+5
 #define NINE 8+1
 
